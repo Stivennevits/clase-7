@@ -5,3 +5,5 @@ console.log("este es el archivo uno")
 
 let imprimir= "a imprimir"
 console.log(imprimir)
+
+console.log("hola" + imprimir)
